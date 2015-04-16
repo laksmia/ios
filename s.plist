@@ -15,7 +15,7 @@
 <string>software-package</string>
 <!-- required.  the URL of the file to download. -->
 <key>url</key>
-<string>http://lcc.com.tw/download/Rotary.ipa</string>
+<string>http://lcc.com.tw/download/Project1.ipa</string>
 </dict>
 </array><key>metadata</key>
 <dict>
@@ -27,7 +27,7 @@
 <string>software</string>
 <!-- required.  the title to display during the download. -->
 <key>title</key>
-<string>Rotary</string>
+<string>Project1</string>
 </dict>
 </dict>
 </array>
